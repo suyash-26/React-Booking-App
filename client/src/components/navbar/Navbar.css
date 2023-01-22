@@ -21,8 +21,9 @@
 }
 .navButton{
     margin-left: 20px;
-    border:none;
-    padding:50x 10px;
+    border: 1px solid lightblue;
+    padding:5px 10px;
     cursor:pointer;
     color: #003580;
+    border-radius: 20px;
 }

@@ -25,3 +25,14 @@
     bottom: 20px;
     left: 20px;
 }
+
+ /* extra styling for .featuredTitles */
+
+.featuredTitles>h1{
+    margin-bottom: 0px;
+}
+
+.featuredTitles>h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
