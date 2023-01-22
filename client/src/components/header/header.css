@@ -16,7 +16,7 @@
 .headerList{
     display: flex;
     gap: 40px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 .headerListItem{
@@ -41,6 +41,7 @@
     color: white;
     font-weight: 500;
     border: none;
+    border-radius: 5px;
     padding: 10px;
     cursor: pointer;
 }
@@ -53,7 +54,7 @@
     align-items: center;
     justify-content: space-around;
     padding: 10px 0px;
-    border-radius:5px ;
+    border-radius: 20px ;
     position: absolute;
     bottom: -25px; 
     width: 100%;
@@ -61,7 +62,7 @@
 }
 
 .headerIcon{
-    color: lightgray;
+    color: rgb(98, 93, 93);
 }
 .headerSearchItem{
     display: flex;
@@ -75,7 +76,7 @@
 }
 
 .headerSearchText{
-    color: lightgray;
+    color: rgb(149, 147, 147);
 }
 
 .date{
